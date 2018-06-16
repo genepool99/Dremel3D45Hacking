@@ -15,10 +15,10 @@ PORT      STATE SERVICE VERSION
 ## Port 23
 A telnet service. Username and password unknown at this time.
 
-##Port 80:
+## Port 80:
 Webserver runnning an HTTP API  
   
-###Endpoints
+### Endpoints
   **/command**     
   `POST /command HTTP/1.1  
   Accept: application/json, text/javascript, */*; q=0.01  
