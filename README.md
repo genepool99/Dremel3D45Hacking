@@ -2,8 +2,15 @@
 Notes on the Dremel 3D45. 
 **I have no idea if any of this violates terms of use, law or warranty. Use this information at your own risk.**
 
+## OS
+OS details: Linux 2.6.32 - 3.5
+
 ## Open Port Scan:
-TODO
+PORT      STATE SERVICE VERSION  
+23/tcp    open  telnet  utelnetd  
+80/tcp    open  http  
+10123/tcp open  unknown  
+10124/tcp open  unknown  
 
 ## Port 23
 A telnet service. Username and password unknown at this time.
