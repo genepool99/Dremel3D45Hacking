@@ -1,4 +1,4 @@
-# Dremel 3D40 Hacking
+# Dremel 3D45 Hacking
 Notes on the Dremel 3D45.   
 **I have no idea if any of this violates terms of use, law or warranty. Use this information at your own risk.**
 
