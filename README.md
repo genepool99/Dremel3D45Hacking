@@ -52,7 +52,7 @@ Webserver runnning an HTTP API
   "totalTime":10090
   }`
   
-  **/print_file_uploads  
+  **/print_file_uploads**  
   
   POST /print_file_uploads HTTP/1.1
   Content-Type: multipart/form-data; boundary="boundary_.oOo._MzIwNDA=MTc1NTA=NjE4Nw=="
