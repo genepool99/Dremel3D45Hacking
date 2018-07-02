@@ -51,6 +51,19 @@ Webserver runnning an HTTP API
   "temperature":252,
   "totalTime":10090
   }`
+  
+  **/print_file_uploads  
+  
+  POST /print_file_uploads HTTP/1.1
+  Content-Type: multipart/form-data; boundary="boundary_.oOo._MzIwNDA=MTc1NTA=NjE4Nw=="
+  MIME-Version: 1.0
+  Content-Length: 8894816
+  Connection: Keep-Alive
+  Accept-Encoding: gzip, deflate
+  Accept-Language: en-US,*
+  User-Agent: Mozilla/5.0
+  
+  Used for sending g-code to printer as part of a multi-part form post.
  
 ## Port 10123
 The video HTTP JPEG stream using MJPG-Streamer [https://github.com/jacksonliam/mjpg-streamer]
